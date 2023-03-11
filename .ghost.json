@@ -1,10 +1,12 @@
 {
   "development": {
     "apiUrl": "https://content.tripintl.cn",
+    "siteUrl": "https://content.tripintl.cn",
     "contentApiKey": "6268b171b6f24a677e672f1036"
   },
   "production": {
     "apiUrl": "https://content.tripintl.cn",
+    "siteUrl": "https://content.tripintl.cn",
     "contentApiKey": "6268b171b6f24a677e672f1036"
   }
 }
